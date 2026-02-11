@@ -1,53 +1,65 @@
 {
-  "displayOrder": ["shortBio","projects", "work", "education", "awards", "volunteer", "social"],
+  "displayOrder": [
+    "shortBio",
+    "projects",
+    "work",
+    "education",
+    "awards",
+    "volunteer",
+    "social"
+  ],
   "hideDesignedBy": false,
   "personal": {
-    "name": "Navdeep Sekhon",
-    "title": "Software Developer",
-    "email": "sekhon@navdeep.co",
-    "phone": "123-456-7890",
-    "website": "http://www.navdeepsekhon.com",
-    "shortBio": "Hello! I am Navdeep Sekhon. I make stuff. Here's some of it.",
-    "location": "Delaware",
+    "name": "Mohamad Tarabishi",
+    "title": "Senior Mobile Engeineer",
+    "email": "eng.mohamad.tarabishi@gmail.com",
+    "phone": "+963967249835",
+    "website": "https://moahamadtarabishi.github.io/portfolio.github.io/",
+    "shortBio": "Hello! I am Mohamad Tarabishi. I make stuff. Here's some of it.",
+    "location": "Syria",
     "profiles": [
       {
-        "network": "Twitter",
-        "url": "http://twitter.com/navdeepsekhon9"
-      },
-      {
         "network": "github",
-        "url": "http://decompile.xyz"
+        "url": "https://github.com/moahamadTarabishi"
       },
       {
         "network": "linkedin",
-        "url": "https://www.linkedin.com/in/navdeepsekhon"
+        "url": "https://www.linkedin.com/in/mohamad-tarabishi-707547194"
       },
       {
         "network": "facebook",
-        "url": "facebook.com/navdeepsekhon6"
+        "url": "https://www.facebook.com/mohamad.tarabishi.9"
       }
     ]
   },
   "work": [
     {
-      "employer": "ABC Company",
-      "location": "Newark, DE",
-      "title": "Job with no highlights",
-      "website": "http://google.com",
-      "dates": "July 2014 - Present",
-      "highlights": []
+      "employer": "Digital Wink",
+      "location": "Marsin, Turky",
+      "title": "Senior Mobile Engeineer",
+      "website": "https://www.linkedin.com/company/diwink",
+      "dates": "Aug 2022 - Present",
+      "highlights": [
+        "Introduced clean-architecture patterns in Swift adopted across 20+ projects, improving team productivity by ~30%",
+        "Developed a security operations system for Saudi Electricity Company to manage internal security processes and workflows"
+      ]
     },
     {
-      "employer": "DEF Company",
-      "location": "Newark, DE",
-      "title": "Job with no link to employer site",
-      "website": "",
-      "dates": "1900 - 1901",
+      "employer": "Namaa Solutions",
+      "location": "istanbul, Turky",
+      "title": "Senior Mobile Engeineer",
+      "website": "https://namaa-solutions.com",
+      "dates": "Nov 2020 - Aug 2022",
       "highlights": [
-        "Implemented new APIs",
-        "Integrated and tested existing C++ libraries with the google testing framework",
-        "Implemented and improved functionality in the backend as well as the frontend of the system",
-        "Technology: C++, SQL, PHP, ExtJS, Unix"
+        "Collaborated with engineers and stakeholders to ship production iOS apps and improvements in iterative releases",
+        "Built real-time tracking and booking experiences (e.g., Glamour) enabling beauty-session reservations and in-home expert requests",
+        "Designed a barber booking platform for Naeeman Company with simplified online scheduling, reducing customer waiting time by ~15 minutes",
+        "Delivered food delivery apps for Bilafeah (Saudi Arabia) and Joaan (Turkey), supporting fast ordering experiences for 1M+ users",
+        "Developed a real-estate management app for Ousol enabling users to manage and track real-estate assets from mobile",
+        "Created Photon: fitness + nutrition routines with specialist booking, plus video/audio calls and live chat",
+        "Built Hunter HCC, a cryptocurrency wallet app for storing and retrieving digital assets",
+        "Designed and tested 7+ iOS apps generating ~$1.5M within a 12‑month period",
+        "Tools: Swift, SwiftUI, Objective‑C, Xcode, CI/CD, GitHub, GitLab, Asana"
       ]
     },
     {
@@ -65,147 +77,55 @@
       ]
     }
   ],
-  "volunteer":[
-    {
-      "organization": "Volunteer Org #1",
-      "location": "Newark, DE",
-      "title": "Volunteer without link to website",
-      "website": "",
-      "dates": "December 2015",
-      "highlights": [
-        "highlight",
-        "highlight"
-      ]
-    },
-    {
-      "organization": "Volunteer Org #2",
-      "location": "Newark, DE",
-      "title": "Volunteer without highlights",
-      "website": "https://www.udel.edu/",
-      "dates": "November 2015",
-      "highlights": [
-        
-      ]
-    },
-    {
-      "organization": "Volunteer Org #3",
-      "location": "Newark, DE",
-      "title": "Volunteer with website and highlights",
-      "website": "https://www.udel.edu/",
-      "dates": "November 2015",
-      "highlights": [
-            "highlight",
-             "highlight"
-      ]
-    }
-    ],
   "education": [
-      {
-      "institution": "University Of noGPA",
-      "major": "Computer Engineering",
-      "degree": "Masters",
-      "graduationDate": "Fall 2020"
-    },
     {
-      "institution": "University Of Delaware",
-      "major": "Computer Engineering",
+      "institution": "University Of Aleppo",
+      "major": "Informatics Engineering",
       "degree": "Bachelor",
-      "graduationDate": "Fall 2010",
-      "gpa": "3.7/4.0"
+      "graduationDate": "Fall 2020"
     }
   ],
   "projectSections": [
-       {
-      "title": "FrontEnd",
-      "projects" :[{
-        "title": "Project with bulleted description",
-        "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
-        "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-        "description": [
-          "Javascript framework that automatically generates a portfolio website from resume data.",
-          "Ability to create image galleries for projects.",
-          "Ability to choose the order of different sections or skip sections entirely.",
-          "Ability to have custom named sections for projects.",
-          "Supports all major social networks icon. ",
-          "The code for this entire site is generated by the framework. Nothing is hardcoded!"
-          ]
-        },
-        {
-        "title": "Project with no link",
-        "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-        "description": [
-          "To crete a bulleted list in the pop up",
-          "Put description content within []",
-          "Each bullet item separated by comma"
-          ]
-        },
-        {
-        "title": "Project with long paragraph description",
-        "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
-        "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-        "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
-          
-        }]
-    },
     {
-      "title": "Android",
+      "title": "IOS",
       "projects": [
         {
-          "title": "Project with image gallery",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/tablet_mainscreen.png",
+          "title": "Project with bulleted description",
           "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
-          "description": "To create an image gallery in pop up, put the image URLs comma separated in gallery: []",
-          "gallery": [
-            "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/phone_detailscreen_portrait.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/phone_mainscreen.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/user_settings_screen.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/tablet_mainscreen.png"
+          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
+          "description": [
+            "Javascript framework that automatically generates a portfolio website from resume data.",
+            "Ability to create image galleries for projects.",
+            "Ability to choose the order of different sections or skip sections entirely.",
+            "Ability to have custom named sections for projects.",
+            "Supports all major social networks icon. ",
+            "The code for this entire site is generated by the framework. Nothing is hardcoded!"
           ]
         },
         {
-          "title": "No gallery, no description(?!)",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/PopMovies/master/screenshots/tablet_movie_details_landscape.PNG",
-          "link": "https://github.com/navdeepsekhon/PopMovies"
-        },
-        {
-          "title": "Top Ten Songs App",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/tablet_player.PNG",
-          "link": "https://github.com/navdeepsekhon/TopTenSongsAndroidApp",
-          "description": "Android app to play current top ten songs for an artist. Supports instant search for artists. Uses spotify API. Optimized for phone and tablet.",
-          "gallery": [
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/phone_initial_view.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/phone_instant_search.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/phone_artist_top_songs.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/tablet_instant_search.PNG",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/tablet_artist_top_songs.PNG",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/tablet_player.PNG"
+          "title": "Project with no link",
+          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
+          "description": [
+            "To crete a bulleted list in the pop up",
+            "Put description content within []",
+            "Each bullet item separated by comma"
           ]
         },
         {
-          "title": "Court Counter",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/CourtCounter/master/screenshots/Screenshot_2015-06-07-14-12-32.png",
-          "link": "https://github.com/navdeepsekhon/CourtCounter",
-          "description": "Android app to keep track of a basketball game score!",
-          "gallery": [
-            "https://raw.githubusercontent.com/navdeepsekhon/CourtCounter/master/screenshots/Screenshot_2015-06-07-14-12-32.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/CourtCounter/master/screenshots/Screenshot_2015-06-07-14-12-43.png"
-          ]
+          "title": "Project with long paragraph description",
+          "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
+          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
+          "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
         }
       ]
     }
-   
   ],
   "awards": [
     {
-      "title": "Award with description",
-      "date": "March 2014",
-      "awarder": "University of Delaware Electrical and Computer Engineering Department",
-      "description": "Awarded to the team with the best senior design project within the ECE department. Project: INERTIA: Dead reckoning tracking system for application in GPS degraded environments."
-    },
-    {
-      "title": "Award without description",
-      "date": "March 2014",
-      "awarder": "University of Delaware Electrical and Computer Engineering Department"
+      "title": "Aleppo Collegiate Programming Contest (ACPC)",
+      "date": "March 2016",
+      "awarder": "University of Aleppo Informatics Engineering Department",
+      "description": "Android developers, rank: 11, Honorable Mention."
     }
   ]
 }
