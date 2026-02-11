@@ -8,13 +8,13 @@
     "volunteer",
     "social"
   ],
-  "hideDesignedBy": false,
+  "hideDesignedBy": true,
   "personal": {
     "name": "Mohamad Tarabishi",
     "title": "Senior Mobile Engeineer",
     "email": "eng.mohamad.tarabishi@gmail.com",
     "phone": "+963967249835",
-    "website": "https://moahamadtarabishi.github.io/portfolio.github.io/",
+    "website": "https://moahamadtarabishi.github.io/portfolio-generator",
     "shortBio": "Hello! I am Mohamad Tarabishi. I make stuff. Here's some of it.",
     "location": "Syria",
     "profiles": [
