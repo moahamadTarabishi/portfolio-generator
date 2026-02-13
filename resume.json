@@ -30,7 +30,7 @@
         "url": "https://www.facebook.com/mohamad.tarabishi.9"
       },
       {
-        "network":  "whatsapp",
+        "network": "whatsapp",
         "url": "https://wa.me/qr/FTQHNBMTWWSHB1"
       }
     ]
@@ -61,22 +61,20 @@
         "Developed a real-estate management app for Ousol enabling users to manage and track real-estate assets from mobile",
         "Created Photon: fitness + nutrition routines with specialist booking, plus video/audio calls and live chat",
         "Built Hunter HCC, a cryptocurrency wallet app for storing and retrieving digital assets",
-        "Designed and tested 7+ iOS apps generating ~$1.5M within a 12‑month period",
+        "Designed and tested 7+ iOS apps within a 12‑month period",
         "Tools: Swift, SwiftUI, Objective‑C, Xcode, CI/CD, GitHub, GitLab, Asana"
       ]
     },
     {
-      "employer": "University Of Delaware",
-      "location": "Newark, DE",
-      "title": "Job with both link to employer site and highlights",
-      "website": "http://google.com",
-      "dates": "1899 – 1900",
+      "employer": "JungleBird",
+      "location": "UAE (Remote)",
+      "title": "Mobile Engeineer",
+      "dates": "May 2018 – Nov 2020",
       "highlights": [
-        "Worked on Model and Simulation of DRAM-PCM Dual Architecture with Dr. Chengmo Yang",
-        "Developed simulators for various parts of the architecture",
-        "Integrated different algorithms",
-        "Tested the algorithms and analyzed the results",
-        "Presented research findings at research seminar"
+        "Defined and implemented robust app architectures and complex user interfaces for native iOS applications",
+        "Architect, designed, and built Mew Stores: an e‑commerce app for browsing gaming stores with filters and smart search features",
+        "Wrote maintainable, reusable code and saved 100+ hours by implementing CI/CD for build, test, and release",
+        "Tools: Swift, SwiftUI, Objective‑C, Xcode, Firebase, Google Analytics, CI/CD, Azure"
       ]
     }
   ],
@@ -93,9 +91,8 @@
       "title": "IOS",
       "projects": [
         {
-          "title": "Project with bulleted description",
-          "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
+          "title": "Joaan app",
+          "link": "https://apps.apple.com/us/app/تطبيق-جوعان/id1481691707",
           "description": [
             "Javascript framework that automatically generates a portfolio website from resume data.",
             "Ability to create image galleries for projects.",
@@ -106,8 +103,8 @@
           ]
         },
         {
-          "title": "Project with no link",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
+          "title": "Photon",
+          "in": "https://apps.apple.com/us/app/فوتون/id1564982080",
           "description": [
             "To crete a bulleted list in the pop up",
             "Put description content within []",
@@ -115,8 +112,26 @@
           ]
         },
         {
-          "title": "Project with long paragraph description",
-          "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
+          "title": "Hunter HCC app",
+          "link": "https://apps.apple.com/us/app/hunter-hcc/id1592927111",
+          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
+          "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
+        },
+        {
+          "title": "Naeeman app",
+          "link": "https://apps.apple.com/us/app/naeeman/id1541284358",
+          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
+          "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
+        },
+        {
+          "title": "Hunbilafeah app",
+          "link": "https://apps.apple.com/us/app/بالعافية-bilafeah/id1553275692",
+          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
+          "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
+        },
+        {
+          "title": "Glamour app",
+          "link": "https://apps.apple.com/us/app/جلامور-glamour/id1533655326",
           "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
           "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
         }
