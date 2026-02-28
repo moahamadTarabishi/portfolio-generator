@@ -11,10 +11,11 @@
   "hideDesignedBy": true,
   "personal": {
     "name": "Mohamad Tarabishi",
-    "title": "Senior Mobile Engeineer",
+    "title": "Senior Mobile Engineer",
     "email": "eng.mohamad.tarabishi@gmail.com",
     "phone": "+963967249835",
-    "shortBio": "Hello! I am Mohamad Tarabishi. I make stuff. Here's some of it.",
+    "website": "https://moahamadtarabishi.github.io/portfolio-generator/",
+    "shortBio": "Senior iOS / Mobile Engineer with 7+ years of experience shipping clean, production-grade apps for 1M+ users across e-commerce, food delivery, fintech, real estate, and fitness verticals. Champion of clean architecture, SOLID principles, and CI/CD automation. Led teams of 5+ to deliver 10+ projects generating $2M+ in revenue.",
     "location": "Syria",
     "profiles": [
       {
@@ -33,117 +34,178 @@
         "network": "whatsapp",
         "url": "https://wa.me/qr/FTQHNBMTWWSHB1"
       }
-    ]
+    ],
+    "emailAlt": "mohamad.tarabishi.mt@gmail.com"
   },
   "work": [
     {
       "employer": "Digital Wink",
-      "location": "Marsin, Turky",
-      "title": "Senior Mobile Engeineer",
+      "location": "Marsin, Turkey",
+      "title": "Senior Mobile Engineer",
       "website": "https://www.linkedin.com/company/diwink",
       "dates": "Aug 2022 - Present",
       "highlights": [
-        "Introduced clean-architecture patterns in Swift adopted across 20+ projects, improving team productivity by ~30%",
-        "Developed a security operations system for Saudi Electricity Company to manage internal security processes and workflows"
+        "Introduced clean-architecture patterns in Swift, adopted across 20+ projects, improving team productivity by ~30%",
+        "Developed a security operations system for Saudi Electricity Company to manage internal security processes and workflows",
+        "Architected scalable module-based project structures allowing faster onboarding and code reuse across enterprise clients"
       ]
     },
     {
       "employer": "Namaa Solutions",
-      "location": "istanbul, Turky",
-      "title": "Senior Mobile Engeineer",
+      "location": "Istanbul, Turkey (Remote)",
+      "title": "Senior Mobile Engineer",
       "website": "https://namaa-solutions.com",
       "dates": "Nov 2020 - Aug 2022",
       "highlights": [
-        "Collaborated with engineers and stakeholders to ship production iOS apps and improvements in iterative releases",
-        "Built real-time tracking and booking experiences (e.g., Glamour) enabling beauty-session reservations and in-home expert requests",
-        "Designed a barber booking platform for Naeeman Company with simplified online scheduling, reducing customer waiting time by ~15 minutes",
-        "Delivered food delivery apps for Bilafeah (Saudi Arabia) and Joaan (Turkey), supporting fast ordering experiences for 1M+ users",
-        "Developed a real-estate management app for Ousol enabling users to manage and track real-estate assets from mobile",
-        "Created Photon: fitness + nutrition routines with specialist booking, plus video/audio calls and live chat",
-        "Built Hunter HCC, a cryptocurrency wallet app for storing and retrieving digital assets",
-        "Designed and tested 7+ iOS apps within a 12‑month period",
-        "Tools: Swift, SwiftUI, Objective‑C, Xcode, CI/CD, GitHub, GitLab, Asana"
+        "Collaborated with cross-functional teams to ship 7+ iOS apps within a 12-month period, generating ~$1.5M in revenue",
+        "Built Glamour: a real-time beauty booking app enabling in-home expert requests, eliminating scheduling friction",
+        "Designed Naeeman: a barber booking platform with online scheduling, reducing per-client wait times by ~15 minutes",
+        "Delivered Bilafeah (Saudi Arabia) and Joaan (Turkey) food delivery platforms supporting 1M+ active users",
+        "Developed Ousol: a real-estate asset management app allowing users to monitor and manage properties from mobile",
+        "Built Photon: a fitness & nutrition app with specialist booking, and live video/audio calls with real-time chat",
+        "Developed Hunter HCC: a secure cryptocurrency wallet for storing and retrieving digital assets",
+        "Tools: Swift, SwiftUI, Objective-C, Xcode, CI/CD, GitHub, GitLab, Asana"
       ]
     },
     {
       "employer": "JungleBird",
       "location": "UAE (Remote)",
-      "title": "Mobile Engeineer",
-      "dates": "May 2018 – Nov 2020",
+      "title": "Mobile Engineer",
+      "dates": "May 2018 - Nov 2020",
       "highlights": [
         "Defined and implemented robust app architectures and complex user interfaces for native iOS applications",
-        "Architect, designed, and built Mew Stores: an e‑commerce app for browsing gaming stores with filters and smart search features",
-        "Wrote maintainable, reusable code and saved 100+ hours by implementing CI/CD for build, test, and release",
-        "Tools: Swift, SwiftUI, Objective‑C, Xcode, Firebase, Google Analytics, CI/CD, Azure"
+        "Architected Mew Stores: an e-commerce platform for gaming stores with smart search and advanced filter features",
+        "Saved 100+ engineering hours by introducing CI/CD pipelines for automated build, test, and release cycles",
+        "Tools: Swift, SwiftUI, Objective-C, Xcode, Firebase, Google Analytics, CI/CD, Azure"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University Of Aleppo",
+      "institution": "University of Aleppo",
       "major": "Informatics Engineering",
-      "degree": "Bachelor",
-      "graduationDate": "Fall 2020"
+      "degree": "Bachelor of Engineering",
+      "graduationDate": "Dec 2020",
+      "gpa": "3.1 / 4.0"
     }
   ],
+  "skills": {
+    "core": [
+      "Swift",
+      "SwiftUI",
+      "Objective-C",
+      "UIKit",
+      "Xcode",
+      "RxSwift",
+      "Combine"
+    ],
+    "architecture": [
+      "Clean Architecture",
+      "MVVM",
+      "MVP",
+      "SOLID Principles",
+      "Design Patterns"
+    ],
+    "crossPlatform": [
+      "React Native",
+      "Flutter",
+      "Dart"
+    ],
+    "backendApi": [
+      "REST API",
+      "Firebase",
+      "Firestore",
+      "Realm",
+      "SQLite",
+      "Django",
+      "Python"
+    ],
+    "devops": [
+      "Fastlane",
+      "CI/CD",
+      "GitHub Actions",
+      "GitLab CI",
+      "Azure DevOps"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "JIRA",
+      "Asana",
+      "Agile",
+      "SCRUM"
+    ],
+    "familiar": [
+      "React.js",
+      "C++",
+      "C#",
+      "JavaScript",
+      "Linux",
+      "OAuth",
+      "MySQL",
+      "AI/ML",
+      "UI/UX"
+    ]
+  },
   "projectSections": [
     {
-      "title": "IOS",
+      "title": "iOS",
       "projects": [
         {
           "title": "Joaan app",
           "link": "https://apps.apple.com/us/app/تطبيق-جوعان/id1481691707",
-          "description": [
-            "Javascript framework that automatically generates a portfolio website from resume data.",
-            "Ability to create image galleries for projects.",
-            "Ability to choose the order of different sections or skip sections entirely.",
-            "Ability to have custom named sections for projects.",
-            "Supports all major social networks icon. ",
-            "The code for this entire site is generated by the framework. Nothing is hardcoded!"
-          ]
+          "description": "One of Turkey's biggest food delivery platforms — lets users order from hundreds of restaurants with fast access for 1M+ users and a smooth, user-friendly experience."
         },
         {
           "title": "Photon",
-          "in": "https://apps.apple.com/us/app/فوتون/id1564982080",
-          "description": [
-            "To crete a bulleted list in the pop up",
-            "Put description content within []",
-            "Each bullet item separated by comma"
-          ]
+          "link": "https://apps.apple.com/us/app/فوتون/id1564982080",
+          "description": "All-in-one fitness app that gathers workout routines, fitness ideas, and nutrition plans, with the ability to book sessions with nutritionists and specialists via live video/audio calls and real-time chat."
         },
         {
           "title": "Hunter HCC app",
           "link": "https://apps.apple.com/us/app/hunter-hcc/id1592927111",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-          "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
+          "description": "Self-custodial cryptocurrency wallet that allows users to securely store and retrieve their digital assets — keeping everything in one place just like a conventional wallet for cash."
         },
         {
           "title": "Naeeman app",
           "link": "https://apps.apple.com/us/app/naeeman/id1541284358",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-          "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
+          "description": "Barber booking platform offering simple online scheduling for multiple services, reducing the per-client waiting queue by 15 minutes and eliminating the need to queue in person."
         },
         {
-          "title": "Hunbilafeah app",
+          "title": "Bilafeah app",
           "link": "https://apps.apple.com/us/app/بالعافية-bilafeah/id1553275692",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-          "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
+          "description": "On-demand food delivery app serving Saudi Arabia — connects users with local restaurants and provides reliable, fast delivery with real-time order tracking."
         },
         {
           "title": "Glamour app",
           "link": "https://apps.apple.com/us/app/جلامور-glamour/id1533655326",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-          "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
+          "description": "Real-time beauty booking app that lets users reserve salon sessions or order an in-home beauty expert on demand — eliminating waiting time entirely."
+        },
+        {
+          "title": "Mew Stores",
+          "link": "https://apps.apple.com/us/app/mew-stores/id1519025369",
+          "description": "Mobile e-commerce platform for browsing gaming stores and shopping, featuring advanced category filters and a smart search engine for a fast, focused discovery experience."
         }
       ]
     }
   ],
   "awards": [
     {
-      "title": "Aleppo Collegiate Programming Contest (ACPC)",
+      "title": "Aleppo Collegiate Programming Contest (ACPC) — Honorable Mention",
       "date": "March 2016",
-      "awarder": "University of Aleppo Informatics Engineering Department",
-      "description": "Android developers, rank: 11, Honorable Mention."
+      "awarder": "University of Aleppo, Informatics Engineering Department",
+      "description": "Team: Android Developers, Rank: 11."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (written & spoken)"
     }
   ]
 }
